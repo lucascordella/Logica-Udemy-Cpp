@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679950141 source:c:\temp\ws-cb\problema_retanguloc++\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cmath>
+	<bits/stdc++.h>
+
